@@ -62,7 +62,7 @@ Have the following skills：
 
 You can also ask me a question on my [Public AMA](https://github.com/sawndev/sawndev/discussions/new?category=ama)
 
-My PGP Public Key: [`747A 2108 3352 BEE7`](https://keybase.io/sawndev/pgp_keys.asc)
+My GPG key hosted here at [GitHub](https://github.com/sawndev.gpg) and also [Keybase](https://keybase.io/sawndev/pgp_keys.asc), see [Keybase proof](https://gist.github.com/sawndev/f0bbe8bf05294f615e7d52c7134d6017).
 
 <details>
   <summary>:zap: Recent Coding Activity</summary>
