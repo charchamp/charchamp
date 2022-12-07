@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=sawndev.readme) [![wakatime](https://wakatime.com/badge/user/0a183899-c8d5-4505-ae92-65c4d05f6e1e.svg)](https://wakatime.com/@0a183899-c8d5-4505-ae92-65c4d05f6e1e)
+![](https://visitor-badge.laobi.icu/badge?page_id=charchamp.readme) [![wakatime](https://wakatime.com/badge/user/0a183899-c8d5-4505-ae92-65c4d05f6e1e.svg)](https://wakatime.com/@0a183899-c8d5-4505-ae92-65c4d05f6e1e)
 
 <p>I am a front-end engineer 🌱 , and also a full-stack developer, committed to become a good independent developer and open source contributor, recently interesting and practicing in lowcode, serverless, vite, SwiftUI, and Flutter。</p>
 
@@ -58,7 +58,7 @@ Have the following skills：
 
 - Website: [charchamp.cc](https://charchamp.cc/)
 - Email: [hi@charchamp.cc](mailto:hi@charchamp.cc)
-- Twitter: [@charchamp](https://twitter.com/charchampv)
+- Twitter: [@charchampv](https://twitter.com/charchampv)
 
 You can also ask me a question on my [Public AMA](https://github.com/charchamp/charchamp/discussions/new?category=ama)
 
