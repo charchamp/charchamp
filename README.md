@@ -64,10 +64,10 @@ You can also ask me a question on my [Public AMA](https://github.com/charchamp/c
 
 My GPG key hosted here at [GitHub](https://github.com/charchamp.gpg) and also [Keybase](https://keybase.io/charchamp/pgp_keys.asc), see [Keybase proof](https://gist.github.com/charchamp/5e30b7d8d8659dae5c3bfc800375cdc7).
 
-![](./profile-3d-contrib/profile-south-season-animate.svg.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <details>
-  <summary>:zap: Recent Coding Activity</summary>
+  <summary>:notebook: Some statistics ...</summary>
 <!--START_SECTION:waka-->
 
 ```text
