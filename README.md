@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=charchamp.readme) [![wakatime](https://wakatime.com/badge/user/0a183899-c8d5-4505-ae92-65c4d05f6e1e.svg)](https://wakatime.com/@0a183899-c8d5-4505-ae92-65c4d05f6e1e)
-
 <p>I am a front-end engineer 🌱 , and also a full-stack developer, committed to become a good independent developer and open source contributor, recently interesting and practicing in lowcode, serverless, vite, SwiftUI, and Flutter。</p>
 
 Have the following skills：
@@ -67,8 +65,7 @@ My GPG key hosted here at [GitHub](https://github.com/charchamp.gpg) and also [K
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <details>
-  <summary>:notebook: Some statistics ...</summary>
-
+  <summary>:notebook: Some statistics ...</summary><br/>
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C592%20hrs%2057%20mins-blue)
@@ -146,25 +143,6 @@ Astro                    2 repos             ░░░░░░░░░░░�
  Last Updated on 07/01/2023 15:00:39 UTC
 <!--END_SECTION:waka-->
 
-## 📈 GitHub Activity Graph:
-
-<table>
-    <tr>
-        <td align="center">
-          <a href="https://github.com/charchamp#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=charchamp&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a>
-          <a href="https://github.com/charchamp#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=charchamp&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a>
-        </td>
-        <td rowspan="2" align="center">
-          <a href="https://github.com/charchamp#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charchamp&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a>
-          <a href="https://github.com/charchamp#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charchamp&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a>
-         </td>
-    </tr>
-    <tr>
-        <td align="center">
-          <a href="https://github.com/charchamp#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charchamp&theme=default"/></a>
-          <a href="https://github.com/charchamp#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charchamp&theme=tokyonight"/></a>
-        </td>
-    </tr>
-</table>
+<a href="https://github.com/charchamp#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=charchamp&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a>
+<a href="https://github.com/charchamp#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=charchamp&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a>
 </details>
-
