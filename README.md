@@ -2,7 +2,12 @@
 
 <p>I am a front-end engineer 🌱 , and also a full-stack developer, committed to become a good independent developer and open source contributor, recently interesting and practicing in lowcode, serverless, vite, SwiftUI, and Flutter。</p>
 
-Have the following skills：
+[![Github Stars](https://img.shields.io/github/stars/charchamp?color=2da44e&label=Github%20Star&logo=github)](https://github.com/charchamp)
+[![Juejin](https://img.shields.io/badge/dynamic/json?color=1e80ff&label=稀土掘金&logo=bytedance&logoColor=white&query=%24.data.follower_count&url=https%3A%2F%2Fapi.juejin.cn%2Fuser_api%2Fv1%2Fuser%2Fget%3Fuser_id%3D272334611548173)](https://juejin.cn/user/272334611548173)
+[![Blog](https://img.shields.io/badge/-charchamp.cc-0ea5e9?logo=Bloglovin&logoColor=white&label=Blog)](https://charchamp.cc/)
+[![微信公众号](https://img.shields.io/badge/-森海视野-07c160?logo=wechat&logoColor=white&label=公众号)](https://open.weixin.qq.com/qr/code?username=SenhaiTalks)
+
+### 🛠 Platforms, languages and tools
 
 **Web Developer**
 
@@ -52,7 +57,7 @@ Have the following skills：
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
-### 📫 How to reach me:
+### 📫 Contact me:
 
 - Website: [charchamp.cc](https://charchamp.cc/)
 - Email: [hi@charchamp.cc](mailto:hi@charchamp.cc)
