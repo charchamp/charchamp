@@ -68,6 +68,8 @@ My GPG key hosted here at [GitHub](https://github.com/charchamp.gpg) and also [K
 
 <details>
   <summary>:notebook: Some statistics ...</summary>
+
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C592%20hrs%2057%20mins-blue)
 
