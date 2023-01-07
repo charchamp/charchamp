@@ -62,7 +62,7 @@ Have the following skills：
 
 You can also ask me a question on my [Public AMA](https://github.com/charchamp/charchamp/discussions/new?category=ama)
 
-My GPG key hosted here at [GitHub](https://github.com/charchamp.gpg) and also [Keybase](https://keybase.io/charchamp/pgp_keys.asc), see [Keybase proof](https://gist.github.com/charchamp/f0bbe8bf05294f615e7d52c7134d6017).
+My GPG key hosted here at [GitHub](https://github.com/charchamp.gpg) and also [Keybase](https://keybase.io/charchamp/pgp_keys.asc), see [Keybase proof](https://gist.github.com/charchamp/5e30b7d8d8659dae5c3bfc800375cdc7).
 
 <details>
   <summary>:zap: Recent Coding Activity</summary>
