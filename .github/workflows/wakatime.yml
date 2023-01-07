@@ -14,8 +14,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: last_30_days
-          SHOW_TITLE: true
-          SHOW_TIME: false
-          COMMIT_MESSAGE: Updated the Readme
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_PROJECTS: "False"
+          SHOW_LOC_CHART: "False"
