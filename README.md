@@ -64,6 +64,8 @@ You can also ask me a question on my [Public AMA](https://github.com/charchamp/c
 
 My GPG key hosted here at [GitHub](https://github.com/charchamp.gpg) and also [Keybase](https://keybase.io/charchamp/pgp_keys.asc), see [Keybase proof](https://gist.github.com/charchamp/5e30b7d8d8659dae5c3bfc800375cdc7).
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <details>
   <summary>:zap: Recent Coding Activity</summary>
 <!--START_SECTION:waka-->
@@ -78,7 +80,6 @@ Other                        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-</details>
 
 ## 📈 GitHub Activity Graph:
 
@@ -100,3 +101,5 @@ Other                        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
         </td>
     </tr>
 </table>
+</details>
+
